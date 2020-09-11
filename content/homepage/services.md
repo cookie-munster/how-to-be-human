@@ -4,21 +4,30 @@ weight: 1
 header_menu: true
 ---
 
-How to Be Human is available to pre-order in a variety of formats at a book seller near you!
+![Book](images/book.png)
 
 ---
 
 #### Physical Copies
-Lorem ipsum
-
----
+- [Bookshop.org](https://bookshop.org/a/13855/9781501180507)
+- Barnes & Noble
+- Books A Million
+- Amazon
 
 #### eBook
-Lorem ipsum
-
----
+- Nook
+- Kindle
+- Books A Million
+- Kobo
 
 #### AudioBook
-Lorem ipsum
+- Audible
+- Libro.fm
+- Audiobooks.com
+- Chirp
+- Downpour
+- Kobo
 
 ---
+
+Disclosure: I will earn a commission if you click through and make a purchase using these affiliate links.
