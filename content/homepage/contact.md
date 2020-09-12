@@ -4,7 +4,8 @@ weight: 3
 header_menu: true
 ---
 
-Simon & Schuster Contacts......
+For Book and Media Requests Contact:
+- TBD
 
 Find Me:
 - For work on [{{< i class="fa fa-linkedin-square">}}](https://linkedin.com/in/joryfleming)

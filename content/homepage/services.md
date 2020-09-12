@@ -9,25 +9,18 @@ header_menu: true
 ---
 
 #### Physical Copies
-- [Bookshop.org](https://bookshop.org/a/13855/9781501180507)
-- Barnes & Noble
-- Books A Million
-- Amazon
+- [Barnes & Noble](https://www.barnesandnoble.com/w/how-to-be-human-jory-fleming/1137565624?ean=9781501180507)
+- [Bookshop.org](https://bookshop.org/books/how-to-be-human-an-autistic-man-s-guide-to-life/9781501180507)
+- [Books A Million](https://www.booksamillion.com/p/How-Be-Human/Jory-Fleming/9781501180507)
+- [Amazon](https://smile.amazon.com/gp/product/1501180509)
 
 #### eBook
-- Nook
-- Kindle
-- Books A Million
-- Kobo
+- [Kindle](https://smile.amazon.com/How-Be-Human-Autistic-Guide-ebook/dp/B08BZX55XG)
+- [Nook](https://www.barnesandnoble.com/w/how-to-be-human-jory-fleming/1137565624?ean=9781501180514)
+- [Books A Million](https://www.booksamillion.com/product/Q276502433)
 
 #### AudioBook
-- Audible
-- Libro.fm
-- Audiobooks.com
-- Chirp
-- Downpour
-- Kobo
+- [Audible](https://www.audible.com/pd/How-to-Be-Human-Audiobook/1508244839)
+- [Libro.fm](https://libro.fm/audiobooks/9781508244837-how-to-be-human)
 
 ---
-
-Disclosure: I will earn a commission if you click through and make a purchase using these affiliate links.
