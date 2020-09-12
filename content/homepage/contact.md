@@ -5,7 +5,10 @@ header_menu: true
 ---
 
 For Book and Media Requests Contact:
-- TBD
+- [Anne Pearce](mailto:anne.pearce@simonandschuster.com) publicity at Simon & Schuster
+- [Elise Ringo](mailto:elise.ringo@simonandschuster.com) marketing at Simon & Schuster
+- Represented by [Amanda Urban](mailto:AUrban@icmpartners.com) at ICM Partners
+
 
 Find Me:
 - For work on [{{< i class="fa fa-linkedin-square">}}](https://linkedin.com/in/joryfleming)
