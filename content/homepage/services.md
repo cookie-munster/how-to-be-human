@@ -6,6 +6,8 @@ header_menu: true
 
 ![Book](images/book.png)
 
+Available for pre-order now.
+
 ---
 
 #### Physical Copies

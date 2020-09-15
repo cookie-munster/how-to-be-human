@@ -4,11 +4,17 @@ weight: 3
 header_menu: true
 ---
 
+
+Represented by [Amanda Urban](mailto:AUrban@icmpartners.com) at ICM Partners
+
 For Book and Media Requests Contact:
 - [Anne Pearce](mailto:anne.pearce@simonandschuster.com) publicity at Simon & Schuster
 - [Elise Ringo](mailto:elise.ringo@simonandschuster.com) marketing at Simon & Schuster
-- Represented by [Amanda Urban](mailto:AUrban@icmpartners.com) at ICM Partners
 
+For Speaking Engagements Contact:
+- [Nancy Aaronson](mailto:NAaronson@icmpartners.com) at ICM Partners
+
+---
 
 Find Me:
 - For work on [{{< i class="fa fa-linkedin-square">}}](https://linkedin.com/in/joryfleming)

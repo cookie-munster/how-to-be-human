@@ -1,5 +1,8 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b25bb8b9-624a-4a67-889e-32ee55114b55/deploy-status)](https://app.netlify.com/sites/how-to-be-human/deploys)
+
 ## Info
-A website created by Jory Fleming for personal use. This site is created in Hugo and uses the theme Hugo Scroll created by Jan Raasch.
+A website created by Jory Fleming for personal use. This site is created in Hugo and uses the theme Hugo Scroll created by Jan Raasch. The site lives at https://joryfleming.com
+
 Theme License:
 
 ## License
