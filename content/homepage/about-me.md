@@ -4,7 +4,7 @@ weight: 2
 header_menu: true
 ---
 
-![Jory Fleming](images/me.jpg)
+![Photo of Jory Fleming with his service dog Daisy](images/me.jpg)
 *Photo © Ryan Dawkins*
 
 ---

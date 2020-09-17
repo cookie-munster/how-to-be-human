@@ -4,7 +4,7 @@ weight: 1
 header_menu: true
 ---
 
-![Book](images/book.png)
+![Book Cover for How to Be Human: An Autistic Man's Guide to Life](images/book.png)
 
 Available for pre-order now.
 
