@@ -6,6 +6,8 @@ header_menu: true
 
 ![Book Cover for How to Be Human: An Autistic Man's Guide to Life. "A beautiful and astonishing book.... It will inspire you and make you more aware of the inner life of your own mind and that of those around you." - Walter Issacson, New York Times bestselling author of Leonardo Da Vinci.](images/book.png)
 
+A remarkable and unforgettable memoir from the first man with autism to attend Oxford on a Rhodes scholarship, revealing what life is really like inside a world constructed for neurotypical minds while celebrating the many gifts of being different.
+
 Available for pre-order now.
 
 ---
