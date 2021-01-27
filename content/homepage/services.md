@@ -6,9 +6,11 @@ header_menu: true
 
 ![Book Cover for How to Be Human: An Autistic Man's Guide to Life. "A beautiful and astonishing book.... It will inspire you and make you more aware of the inner life of your own mind and that of those around you." - Walter Issacson, New York Times bestselling author of Leonardo Da Vinci.](images/book.png)
 
-A remarkable and unforgettable memoir from the first man with autism to attend Oxford on a Rhodes scholarship, revealing what life is really like inside a world constructed for neurotypical minds while celebrating the many gifts of being different.
+An unforgettable, unconventional narrative that examines the many ways to be fully human, told by the first young adult with autism to attend Oxford University as a Rhodes Scholar.
 
-Available for pre-order now.
+Join Jory and Lyric as they examine what it means to be human and ultimately how each of us might become a better one. Jory asks us to consider: Who has value? What is a disability? And how do we correct the imbalances we see in the world? How to Be Human shows us the ways a beautifully different mind can express the very best of our shared humanity.
+
+Available for pre-order now:
 
 ---
 
