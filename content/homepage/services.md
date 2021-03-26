@@ -10,7 +10,7 @@ An unforgettable, unconventional narrative that examines the many ways to be ful
 
 Join Jory and Lyric as they examine what it means to be human and ultimately how each of us might become a better one. Jory asks us to consider: Who has value? What is a disability? And how do we correct the imbalances we see in the world? How to Be Human shows us the ways a beautifully different mind can express the very best of our shared humanity.
 
-Available for pre-order now:
+Find How to Be Human: An Autistic Man's Guide to Life at a bookseller near you:
 
 ---
 
@@ -27,6 +27,5 @@ Available for pre-order now:
 
 #### AudioBook
 - [Audible](https://www.audible.com/pd/How-to-Be-Human-Audiobook/1508244839)
-- [Libro.fm](https://libro.fm/audiobooks/9781508244837-how-to-be-human)
-
----
+- [Libro.fm](https://libro.fm/audiobooks/9781508244837)
+- [Google Play](https://play.google.com/store/audiobooks/details/Jory_Fleming_How_to_Be_Human?id=AQAAAEDsG3NbjM)
