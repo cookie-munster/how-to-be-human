@@ -10,7 +10,7 @@ An unforgettable, unconventional narrative that examines the many ways to be ful
 
 Join Jory and Lyric as they examine what it means to be human and ultimately how each of us might become a better one. Jory asks us to consider: Who has value? What is a disability? And how do we correct the imbalances we see in the world? How to Be Human shows us the ways a beautifully different mind can express the very best of our shared humanity.
 
-Find How to Be Human: An Autistic Man's Guide to Life at a bookseller near you:
+Find [How to Be Human: An Autistic Man's Guide to Life](https://www.simonandschuster.com/books/How-to-Be-Human/Jory-Fleming/9781501180507) at a bookseller near you:
 
 ---
 
@@ -18,7 +18,7 @@ Find How to Be Human: An Autistic Man's Guide to Life at a bookseller near you:
 - [Barnes & Noble](https://www.barnesandnoble.com/w/how-to-be-human-jory-fleming/1137565624?ean=9781501180507)
 - [Bookshop.org](https://bookshop.org/books/how-to-be-human-an-autistic-man-s-guide-to-life/9781501180507)
 - [Books A Million](https://www.booksamillion.com/p/How-Be-Human/Jory-Fleming/9781501180507)
-- [Amazon](https://smile.amazon.com/gp/product/1501180509)
+- [Amazon](https://www.amazon.com/How-Be-Human-Autistic-Guide/dp/1501180509/)
 
 #### eBook
 - [Kindle](https://smile.amazon.com/How-Be-Human-Autistic-Guide-ebook/dp/B08BZX55XG)
