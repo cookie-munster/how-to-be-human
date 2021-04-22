@@ -21,11 +21,13 @@ Find [How to Be Human: An Autistic Man's Guide to Life](https://www.simonandschu
 - [Amazon](https://www.amazon.com/How-Be-Human-Autistic-Guide/dp/1501180509/)
 
 #### eBook
-- [Kindle](https://smile.amazon.com/How-Be-Human-Autistic-Guide-ebook/dp/B08BZX55XG)
+- [Kindle](https://www.amazon.com/How-Be-Human-Autistic-Guide-ebook/dp/B08BZX55XG/)
 - [Nook](https://www.barnesandnoble.com/w/how-to-be-human-jory-fleming/1137565624?ean=9781501180514)
 - [Books A Million](https://www.booksamillion.com/product/Q276502433)
 
 #### AudioBook
-- [Audible](https://www.audible.com/pd/How-to-Be-Human-Audiobook/1508244839)
-- [Libro.fm](https://libro.fm/audiobooks/9781508244837)
-- [Google Play](https://play.google.com/store/audiobooks/details/Jory_Fleming_How_to_Be_Human?id=AQAAAEDsG3NbjM)
+Listen to a sample audio clip [on SoundCloud](https://soundcloud.com/simonschuster/how-to-be-human-audiobook)
+- [Apple Books](https://apple.co/3n5kGGR)
+- [Audible](http://adbl.co/3cTER7M)
+- [Google Play](http://bit.ly/3cYrcwp)
+- [LibroFM](https://bit.ly/2PwKD5A)
