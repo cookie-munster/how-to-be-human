@@ -5,7 +5,7 @@ header_menu: true
 ---
 
 
-Represented by [Amanda Urban](mailto:rory.walsh@icmpartners.com) at ICM Partners
+Represented by [Amanda Urban](mailto:John.Ingold@icmpartners.com) at ICM Partners
 
 For Book and Media Requests Contact:
 - [Anne Pearce](mailto:anne.pearce@simonandschuster.com) publicity at Simon & Schuster
