@@ -7,12 +7,12 @@ header_menu: true
 
 Represented by [Amanda Urban](mailto:John.Ingold@icmpartners.com) at ICM Partners
 
-For Book and Media Requests Contact:
+For Speaking Engagements:
+- [Submit a Request through CAA Speakers](https://www.caa.com/caaspeakers/jory-m-fleming)
+
+For Book / Publisher Requests Contact:
 - [Anne Pearce](mailto:anne.pearce@simonandschuster.com) publicity at Simon & Schuster
 - [Elise Ringo](mailto:elise.ringo@simonandschuster.com) marketing at Simon & Schuster
-
-For Speaking Engagements Contact:
-- [Nancy Aaronson](mailto:NAaronson@icmpartners.com) at ICM Partners
 
 ---
 
