@@ -1,33 +1,16 @@
 ---
-title: "Buy the Book"
-weight: 1
+title: "Speaking & Consulting"
+weight: 2
 header_menu: true
 ---
 
-![Book Cover for How to Be Human: An Autistic Man's Guide to Life. "A beautiful and astonishing book.... It will inspire you and make you more aware of the inner life of your own mind and that of those around you." - Walter Issacson, New York Times bestselling author of Leonardo Da Vinci.](images/book.png)
-
-An unforgettable, unconventional narrative that examines the many ways to be fully human, told by the first young adult with autism to attend Oxford University as a Rhodes Scholar.
-
-Join Jory and Lyric as they examine what it means to be human and ultimately how each of us might become a better one. Jory asks us to consider: Who has value? What is a disability? And how do we correct the imbalances we see in the world? How to Be Human shows us the ways a beautifully different mind can express the very best of our shared humanity.
-
-Find [How to Be Human: An Autistic Man's Guide to Life](https://www.simonandschuster.com/books/How-to-Be-Human/Jory-Fleming/9781501180507) at a bookseller near you:
+Jory enjoys speaking with others about his way of seeing the world. As a young child, Jory struggled with his speech. Once he did start to speak, he knew what he was trying to communicate, but his words rarely made sense to anyone else. Jory's debut book vividly describes what it is like to live in a world designed for neurotypical brains when his is decidedly not. Instead of dwelling on his limitations, Jory invites those who inhabit the neurotypical world to better understand their own. 
 
 ---
 
-#### Physical Copies
-- [Barnes & Noble](https://www.barnesandnoble.com/w/how-to-be-human-jory-fleming/1137565624?ean=9781501180507)
-- [Bookshop.org](https://bookshop.org/books/how-to-be-human-an-autistic-man-s-guide-to-life/9781501180507)
-- [Books A Million](https://www.booksamillion.com/p/How-Be-Human/Jory-Fleming/9781501180507)
-- [Amazon](https://www.amazon.com/How-Be-Human-Autistic-Guide/dp/1501180509/)
+Jory is currently accepting speaking engagement requests:
+- [Submit a Request through CAA Speakers](https://www.caa.com/caaspeakers/jory-m-fleming)
 
-#### eBook
-- [Kindle](https://www.amazon.com/How-Be-Human-Autistic-Guide-ebook/dp/B08BZX55XG/)
-- [Nook](https://www.barnesandnoble.com/w/how-to-be-human-jory-fleming/1137565624?ean=9781501180514)
-- [Books A Million](https://www.booksamillion.com/product/Q276502433)
 
-#### AudioBook
-Listen to a sample audio clip [on SoundCloud](https://soundcloud.com/simonschuster/how-to-be-human-audiobook)
-- [Apple Books](https://apple.co/3n5kGGR)
-- [Audible](http://adbl.co/3cTER7M)
-- [Google Play](http://bit.ly/3cYrcwp)
-- [LibroFM](https://bit.ly/2PwKD5A)
+Jory has consulted with firms at the nexus of strategy and neurodiversity. He is a member of Autism Community Ventures' Neurodivergent Leaders Advisory Board.
+- [Learn more at Autism Community Ventures](https://www.autismcommunityventures.org/)
