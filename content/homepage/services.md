@@ -8,7 +8,7 @@ Jory enjoys speaking with others about his way of seeing the world. As a young c
 
 ---
 
-Jory is currently accepting speaking engagement requests:
+Jory has spoken with diverse audiences and is currently accepting speaking engagement requests:
 - [Submit a Request through CAA Speakers](https://www.caa.com/caaspeakers/jory-m-fleming)
 
 
