@@ -5,11 +5,7 @@ header_menu: true
 ---
 
 
-Represented by [Amanda Urban](mailto:John.Ingold@icmpartners.com) at ICM Partners
-
-For Book / Publisher Requests Contact:
-- [Anne Pearce](mailto:anne.pearce@simonandschuster.com) publicity at Simon & Schuster
-- [Elise Ringo](mailto:elise.ringo@simonandschuster.com) marketing at Simon & Schuster
+Represented by [Amanda Urban](mailto:John.Ingold@icmpartners.com) at CAA
 
 ---
 
