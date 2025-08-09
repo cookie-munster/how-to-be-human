@@ -40,7 +40,7 @@ Read in English by Jory & Lyric. Listen to a sample audio clip [on SoundCloud](h
 ## Atlas of South Carolina
 ![Book Cover for the Atlas of South Carolina. It features an outline of the state filled in by different photos depicting landscapes and human geography.](images/atlas.jpg)
 
-Now in its third edition, the Atlas of South Carolina helps readers understand the regional geography of our state. Explore dozens of unique maps across that cover the human and pysical geography of South Carolina's past and present.
+Now in its third edition, the Atlas of South Carolina helps readers understand the regional geography of our state. Explore dozens of unique maps across that cover the human and physical geography of South Carolina's past and present.
 
 Available in spiral bound and ebook versions. 
 - [University of South Carolina Press](https://uscpress.com/Atlas-of-South-Carolina-third-edition)
