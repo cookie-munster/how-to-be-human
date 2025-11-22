@@ -13,7 +13,7 @@ An unforgettable, unconventional narrative that examines the many ways to be ful
 
 Join Jory and Lyric as they examine what it means to be human and ultimately how each of us might become a better one. Jory asks us to consider: Who has value? What is a disability? And how do we correct the imbalances we see in the world? How to Be Human shows us the ways a beautifully different mind can express the very best of our shared humanity.
 
-How to Be Human: An Autistic Man's Guide to Life is available at a bookseller near you. I am happy to sign a copy next time I stop by my local bookshop, [contact Ben & Ruth at All Good Books](https://www.allgoodbooks.com/contact-hours) to arrange purchase & shipping.
+How to Be Human: An Autistic Man's Guide to Life is available at a bookseller near you. I am happy to sign a copy next time I stop by my local bookshop, [contact Ben at All Good Books](https://www.allgoodbooks.com/contact-hours) to arrange purchase & shipping.
 
 ---
 
