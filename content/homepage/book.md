@@ -50,5 +50,7 @@ Available in spiral bound and ebook versions.
 ## Congaree Anthology
 ![Book Cover for the Congaree Anthology. It features the title and a painting of cypress trees.](images/anthology.png)
 
-The Congaree Anthology is a collective art project inspired by Congaree National Park and the Congaree Biosphere Region. I contributed a series of haiku, ホタルの魔法. All proceeds benefit the charity Friends of Congaree Swamp. Learn more about the project here.
+The Congaree Anthology is a collective art project inspired by Congaree National Park and the Congaree Biosphere Region. I contributed a series of haiku, ホタルの魔法. All proceeds benefit the charity Friends of Congaree Swamp. 
+
+Learn more about the project here.
 -[Congaree Anthology](https://www.congareeanthology.com)
